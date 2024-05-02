@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Qanelas+Soft:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-qanelas-soft: "Qanelas Soft";
+  --font-manrope: Manrope;
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+
+  /* Colors */
+  --color-gray-100: #161514;
+  --color-white: #fff;
+  --color-gainsboro: #e8e8e8;
+  --color-darkslategray-100: #484644;
+  --color-whitesmoke-100: #e8f0eb;
+  --color-seagreen: #186e47;
+  --color-silver: #c0c0c0;
+  --color-darkgray: #9c9c9b;
+  --color-floralwhite: #fffaf4;
+
+  /* Gaps */
+  --gap-base: 1rem;
+  --gap-5xs: 0.5rem;
+  --gap-xs: 0.75rem;
+  --gap-9xs: 0.25rem;
+
+  /* Paddings */
+  --padding-5xl: 1.5rem;
+  --padding-3xs: 0.625rem;
+  --padding-base: 1rem;
+  --padding-xs: 0.75rem;
+  --padding-9xs: 0.25rem;
+  --padding-11xs: 0.125rem;
+  --padding-5xs: 0.5rem;
+
+  /* Border radiuses */
+  --br-45xl: 64px;
+  --br-xs: 12px;
+  --br-5xs: 8px;
+  --br-29xl: 48px;
+  --br-5xl: 24px;
+}
